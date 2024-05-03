@@ -1,0 +1,7 @@
+# Please enter the coordinates of the junction (rectangle/square) in anti-clockwise manner
+run_tcas:
+  ros__parameters:
+    no_of_junctions: 3
+    junction_1: [2.0, 1.3, 2.0, -0.5, 3.3, -0.5, 3.3, 1.3]
+    junction_2: [40.0, 30.0, 30.0, 30.0, 40.0, 50.0, 40.0, 60.0]
+    junction_3: [-1.0, 1.0, -3.0, 1.0, -3.0, -1.0, -1.0, -1.0]

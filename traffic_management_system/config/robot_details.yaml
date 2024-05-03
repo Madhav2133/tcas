@@ -1,0 +1,3 @@
+junction_monitor:
+  ros__parameters:
+    no_of_robots: 3

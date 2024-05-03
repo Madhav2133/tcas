@@ -1,0 +1,7 @@
+/**:
+  ros__parameters:
+    no_of_robots: 2
+    robot0: "tb3_0"
+    robot1: "tb3_1"
+    robot2: "tb3_2"
+    robot_radius: 0.7
