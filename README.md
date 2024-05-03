@@ -38,3 +38,5 @@ ros2 launch tcas lane.launch.py
 ## Note:
 
 If you would like to define the parameters of the junction, go to the `config/junction_details.yaml`and `config/robot_details.yaml` and give the coordinates of the marked regions and the no of robots deployed along with their namespaces.
+
+PS: Moved from private to public for share access
